@@ -6,6 +6,7 @@ body {
     align-items: center;
     flex-direction: column;
     background: url(images/bg1.jpg);
+    background-repeat: no-repeat;
 }
 
 body h1 {
